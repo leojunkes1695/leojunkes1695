@@ -1,22 +1,27 @@
-## Bem-vindo(a) ao perfil do Leo 😁
+# Olá, eu sou o Leo 👋
 
- <div>
-   <a href="https://github.com/leojunkes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leojunkes1695&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojunkes1695&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação!
- 
-<div> 
+**Analista de dados em formação** com experiência prática em
+prevenção de perdas e análise de quebras em centro de distribuição.
+
+Transformo dados operacionais em decisões que reduzem perdas e custos.
+
+## 🛠️ Ferramentas
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+(deixe só o que você realmente sabe usar)
+
+## 📂 Projetos em destaque
+- **[Nome do projeto]**: análise de [tema] que identificou [resultado].
+- **[Nome do projeto]**: dashboard em Power BI sobre [tema].
+
+## 📚 Estudando agora
+[ex.: SQL avançado, Python para análise de dados, Power BI]
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/seu-usuario) • seuemail@exemplo.com
   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ltrox2246" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
