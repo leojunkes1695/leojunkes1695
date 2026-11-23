@@ -5,7 +5,7 @@ prevenção de perdas e análise de quebras em centro de distribuição.
 
 Transformo dados operacionais em decisões que reduzem perdas e custos.
 
-## 🛠️ Ferramentas
+## Ferramentas
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
